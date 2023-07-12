@@ -1,4 +1,4 @@
-# NLP_project
+# Fake New Detection
 
 # Abstract
 This project aims to develop a Natural Language Processing (NLP) model
